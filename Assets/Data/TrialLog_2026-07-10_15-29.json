@@ -1,0 +1,71 @@
+{
+    "trials": [
+        {
+            "trialIndex": 1,
+            "timestamp": "2026-07-10 15:30:28",
+            "configurationIndex": 3,
+            "completionTimeSeconds": 66.4363784790039,
+            "greenForceRange": {
+                "min": 0.7215650081634522,
+                "max": 0.9215649962425232
+            },
+            "redForceRange": {
+                "min": 0.015942823141813279,
+                "max": 0.21594282984733582
+            },
+            "surveyAnswer": "Green",
+            "insertions": [
+                {
+                    "holeName": "Hole20",
+                    "pegColor": "Red",
+                    "grabToPlacementSeconds": 9.726572036743164
+                },
+                {
+                    "holeName": "Hole15",
+                    "pegColor": "Red",
+                    "grabToPlacementSeconds": 1.975351333618164
+                },
+                {
+                    "holeName": "Hole8",
+                    "pegColor": "Red",
+                    "grabToPlacementSeconds": 4.869213104248047
+                },
+                {
+                    "holeName": "Hole7",
+                    "pegColor": "Red",
+                    "grabToPlacementSeconds": 2.4524688720703127
+                },
+                {
+                    "holeName": "Hole5",
+                    "pegColor": "Green",
+                    "grabToPlacementSeconds": 3.2506103515625
+                },
+                {
+                    "holeName": "Hole10",
+                    "pegColor": "Green",
+                    "grabToPlacementSeconds": 2.5219345092773439
+                },
+                {
+                    "holeName": "Hole9",
+                    "pegColor": "Green",
+                    "grabToPlacementSeconds": 4.3680267333984379
+                },
+                {
+                    "holeName": "Hole6",
+                    "pegColor": "Green",
+                    "grabToPlacementSeconds": 2.7522659301757814
+                },
+                {
+                    "holeName": "Hole1",
+                    "pegColor": "Red",
+                    "grabToPlacementSeconds": 7.288749694824219
+                },
+                {
+                    "holeName": "Hole16",
+                    "pegColor": "Green",
+                    "grabToPlacementSeconds": 3.939697265625
+                }
+            ]
+        }
+    ]
+}
