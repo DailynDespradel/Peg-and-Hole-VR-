@@ -4,6 +4,8 @@ This project implements a VR peg-and-hole task designed to study **force control
 
 Each trial presents a **different peg-and-hole configuration**, which is displayed in the scene for participants to follow. The required force ranges associated with each peg color are randomized between trials, requiring participants to adapt their force output throughout the experiment.
 
+## Demo
+
 ## Main Scenes
 
 * **`InitialInteractionScene_ControllerTracking_Task.unity`** – Controller-based peg-and-hole task with force-sensitive placement.
@@ -43,6 +45,34 @@ During insertion, the task provides real-time visual feedback:
 * Participants complete the configuration by inserting all required pegs.
 * After completion, a short survey is presented.
 * The scene reloads and begins the next trial with a new randomized configuration and force mapping.
+
+## Trial Configurations
+
+Participants are shown one of several peg-and-hole configurations at the start of each trial. The displayed configuration serves as a visual guide indicating where each peg should be placed.
+
+<table>
+<tr>
+<td align="center">
+<b>Configuration 1</b><br>
+<img src="Assets/Prefabs/Patterns/configuration1.png" width="250"/>
+</td>
+
+<td align="center">
+<b>Configuration 2</b><br>
+<img src="Assets/Prefabs/Patterns/configuration2.png" width="250"/>
+</td>
+
+<td align="center">
+<b>Configuration 2</b><br>
+<img src="Assets/Prefabs/Patterns/configuration3.png" width="250"/>
+</td>
+
+<td align="center">
+<b>Configuration 3</b><br>
+<img src="Assets/Prefabs/Patterns/configuration4.png" width="250"/>
+</td>
+</tr>
+</table>
 
 ## Data Logging
 
