@@ -6,8 +6,6 @@ Each trial presents a **different peg-and-hole configuration**, which is display
 
 ## Demo
 
-## 🎥 Demo
-
 > **Click the GIF below to watch the full demo on YouTube.**
 
 [![Watch the Ultraleap Hand Tracking Demo](PegHoleForce.gif)]([https://youtu.be/BdMO90y-6E8](https://www.youtube.com/watch?v=_yWt1ZSOngU))
@@ -116,3 +114,4 @@ Recorded information includes:
 ## Hand Tracking Scene
 
 `HandTrackingScene.unity` is provided for collecting finger joint positions and hand pose data independently of the force task. This scene can be used for recording or analyzing hand kinematics during tracked hand interactions.
+The `HandTrackingScene` includes a hand joint logging workflow that samples tracked hand joints every 100 ms during Play Mode. For each sample, the logger records the hand, joint name, world-space joint position, and tracking state to a timestamped CSV file in `Assets/Data/`. This allows finger joint trajectories to be analyzed over time outside Unity.
