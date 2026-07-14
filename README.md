@@ -10,7 +10,7 @@ Each trial presents a **different peg-and-hole configuration**, which is display
 
 > **Click the GIF below to watch the full demo on YouTube.**
 
-[![Watch the Ultraleap Hand Tracking Demo](media/demo.gif)](https://youtu.be/BdMO90y-6E8)
+[![Watch the Ultraleap Hand Tracking Demo](PegHoleForce.gif)]([https://youtu.be/BdMO90y-6E8](https://www.youtube.com/watch?v=_yWt1ZSOngU))
 
 ## Main Scenes
 
