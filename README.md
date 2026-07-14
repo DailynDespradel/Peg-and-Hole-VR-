@@ -54,22 +54,22 @@ Participants are shown one of several peg-and-hole configurations at the start o
 <tr>
 <td align="center">
 <b>Configuration 1</b><br>
-<img src="Assets/Prefabs/Patterns/configuration1.png" width="250"/>
+<img src="Assets/Prefabs/Patterns/Configuration1.png" width="250"/>
 </td>
 
 <td align="center">
 <b>Configuration 2</b><br>
-<img src="Assets/Prefabs/Patterns/configuration2.png" width="250"/>
+<img src="Assets/Prefabs/Patterns/Configuration2.png" width="250"/>
 </td>
 
 <td align="center">
 <b>Configuration 2</b><br>
-<img src="Assets/Prefabs/Patterns/configuration3.png" width="250"/>
+<img src="Assets/Prefabs/Patterns/Configuration3.png" width="250"/>
 </td>
 
 <td align="center">
 <b>Configuration 3</b><br>
-<img src="Assets/Prefabs/Patterns/configuration4.png" width="250"/>
+<img src="Assets/Prefabs/Patterns/Configuration4.png" width="250"/>
 </td>
 </tr>
 </table>
