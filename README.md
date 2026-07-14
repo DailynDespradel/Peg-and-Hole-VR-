@@ -13,6 +13,9 @@ Each trial presents a **different peg-and-hole configuration**, which is display
 
 ## Task Overview
 
+<img width="889" height="459" alt="image" src="https://github.com/user-attachments/assets/7ac4f07c-2412-4034-ba81-582d3cb00cb1" />
+
+
 Participants are presented with a board containing red and green pegs and a visual configuration indicating where each peg should be placed.
 
 **To successfully complete the task**, participants must:
