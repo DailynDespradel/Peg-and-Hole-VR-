@@ -6,7 +6,7 @@ Each trial presents a **different peg-and-hole configuration**, which is display
 
 ## Demo
 
-## 🎥 Demo
+## Demo
 
 > **Click the GIF below to watch the full demo on YouTube.**
 
