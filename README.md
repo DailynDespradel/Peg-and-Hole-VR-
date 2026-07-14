@@ -36,8 +36,13 @@ For every trial:
 During insertion, the task provides real-time visual feedback:
 
 * 🟢 Green — Force is within the valid range.
+<img width="182" height="161" alt="image" src="https://github.com/user-attachments/assets/7dc31931-b4da-4fc8-a1a7-9b1a6d5e83e7" />
+
 * 🔴 Red — Force is outside the valid range.
+<img width="191" height="161" alt="image" src="https://github.com/user-attachments/assets/3fd918de-0401-4b9f-8fcd-d113baef4849" />
+
 * 🔵 Blue — Peg has been successfully inserted and locked.
+<img width="186" height="173" alt="image" src="https://github.com/user-attachments/assets/c47d96c5-7ea1-47f7-a568-d154140ba846" />
 
 ## Trial Flow
 
