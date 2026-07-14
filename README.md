@@ -6,6 +6,12 @@ Each trial presents a **different peg-and-hole configuration**, which is display
 
 ## Demo
 
+## 🎥 Demo
+
+> **Click the GIF below to watch the full demo on YouTube.**
+
+[![Watch the Ultraleap Hand Tracking Demo](media/demo.gif)](https://youtu.be/BdMO90y-6E8)
+
 ## Main Scenes
 
 * **`InitialInteractionScene_ControllerTracking_Task.unity`** – Controller-based peg-and-hole task with force-sensitive placement.
