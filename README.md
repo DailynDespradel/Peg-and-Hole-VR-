@@ -8,7 +8,7 @@ Each trial presents a **different peg-and-hole configuration**, which is display
 
 > **Click the GIF below to watch the full demo on YouTube.**
 
-[![Watch Peg and HolE Demo](PegHoleForce.gif)]((https://www.youtube.com/watch?v=_yWt1ZSOngU))
+[![Watch Peg and HolE Demo](PegHoleForce.gif)](https://www.youtube.com/watch?v=_yWt1ZSOngU)
 
 ## Main Scenes
 
